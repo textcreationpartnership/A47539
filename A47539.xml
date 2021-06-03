@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The following speech being spoke off hand upon the debates in the House of Commons ...</title>
+            <title>Speech in the House of Commons against the naturalization of foreigners</title>
+            <author>Knight, John, Sir, d. 1718.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47539</idno><idno type="EEBO-CITATION">12425306</idno>
+  <idno type="VID">61825</idno>
+  <idno type="EEBO-PROQUEST">2264214758</idno>
+  
+            <idno type="STC">Wing K686A</idno>
+            <idno type="STC">ESTC R10869</idno>
+            <idno type="OCLC">12425306</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61825)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 944:12 or 1869:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The following speech being spoke off hand upon the debates in the House of Commons ...</title>
+                  <title>Speech in the House of Commons against the naturalization of foreigners</title>
+                  <author>Knight, John, Sir, d. 1718.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Sir John Knight by Wing and NUC pre-1956 imprints.</note>
+                  <note>In opposition to a bill to naturalize Protestant immigrants, rejected by the House of Commons 15 March 1694.</note>
+                  <note>Also published under title: A speech in the House of Commons against the naturalization of foreigners, 1693 [1694?]</note>
+                  <note>Item at reel 1869:12 incorrectly identified as Wing K687A.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York and Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons.</term>
+               <term type="topical_term">Protestantism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:61825:1"/>
+            <pb n="1" facs="tcp:61825:1"/>
+            <p>The following SPEECH being spoke off hand upon the Debates in the <hi>House of Commons,</hi> you cannot expect in it the Exactness of <hi>Roman</hi> Eloquence; but you have the freedom, and bravery of the Old <hi>Ro<g ref="char:EOLhyphen"/>man,</hi> and true <hi>English</hi> Spirit, zealous for the good of their Country, and bold in all its Dangers. And if other Cor<g ref="char:EOLhyphen"/>porations and Shires would take the like Care as <hi>B—l,</hi> they might be as happy in the Choice of their Represen<g ref="char:EOLhyphen"/>tatives; and then, and never till then, may we hope to see <hi>poor England</hi> become <hi>Old England</hi> again, <hi>Rich</hi> and <hi>Happy</hi> at home, <hi>Glorious</hi> and <hi>Renowned</hi> abroad. Towards which, this worthy <hi>Patriot</hi> has set a Noble Example; and that it may Inspire and Incourage others, and prompt and enable the Country to distinguish such from <hi>Pensioners,</hi> and wretched Betrayers of their Country and Posterity, is the design of making this Publick, from a Copy which I procured from a <hi>Member</hi> of the <hi>House of Commons,</hi> who took it in Short Hand, as it was spoke.</p>
+         </div>
+         <div type="speech">
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>I have heard of a Ship in a Violent Storm, in danger of Perish<g ref="char:EOLhyphen"/>ing every Moment; [It was not such a sham Storm as we were lately entertained with in the <hi>Gazette,</hi> which deceives the Peo<g ref="char:EOLhyphen"/>ple, that many Ships going for <hi>France,</hi> Laden with Corn, were Cast away, tho' those Ships and many more are since safely Arrived in <hi>France;</hi> But it was such a real Storm as on the 7th. of the last Month, Destroyed on the Coast of <hi>Cornwall</hi> upwards of 70 Sail of our <hi>English</hi> Ships, most of which were Laden with Corn, and several sorts of Provisions, for the use of our <hi>Dutch</hi> Allies, to enable them to live Cheap, by making the same Dear at Home, perhaps some was
+<pb n="2" facs="tcp:61825:2"/> for the Support of our half Starv'd and Unpaid <hi>English</hi> Soldiers now in <hi>Flanders;</hi> when Perished likewise more than 700 Sailors, who have left Thousands of Widows, Children, and poor Relations to Curse our Conduct at Sea, the cause of this Calamity: In such a Dreadful Storm it was that the foresaid Ship was in] when the good Comman<g ref="char:EOLhyphen"/>der seeing the Danger, and apprehending Death, desired his Crew to Assist with Resolution, and Preserve themselves and the Ship, which the Sailors refusing to do, he retired to his Cabbin, humbled himself in Prayer, and Implored the Powers that alone can save in time of need, That tho' the Ship and the Company might be justly Swallowed up, for the Disobedience of the Sailors, yet that he and his Cabbin might suffer no Damage.</p>
+            <p>Sir, I cannot, as that good Commander did, be so vain as to hope that either my self, or the place for which I serve, can be preserved from the General Inundation, which this Bill we are now debating lets in on the Liberties of my Native Country and Country Men; and therefore be unconcerned for the good of <hi>England,</hi> provided <hi>Bristol</hi> were safe: To hope for and expect Happiness in Life, when all Man<g ref="char:EOLhyphen"/>kind but my self are Dead, would not be more deceiving, then to propose Comfort, and Security to my self and Corporation, when Strangers are Admitted to possess and Enjoy by a Law, all that's Valu<g ref="char:EOLhyphen"/>able in this Kingdom; for this Bill doth Enfranchize all Strangers that will Swear and Protest against <hi>Popery</hi>) with the Liberties of every <hi>English Man,</hi> after the vast Expence of Treasure and <hi>English</hi> Blood it hath Cost this Kingdom in all Times and Ages of our Fore-fathers, to se<g ref="char:EOLhyphen"/>cure them to themselves and their Posterity.</p>
+            <p>Wherefore Mr. <hi>Speaker</hi> I must begg Pardon, if at this time I cannot sit silent, but express a Zealous concern, as well for the Kingdom in General, as for the Place I Represent in particular; and I am more moved thereunto, whilst I see so many Members sent here by their Country for the Conservation of the <hi>English Mans</hi> Liberties, so warm as to part with all to Strangers with one Vote.</p>
+            <p>The Argument of the Honourable Person near me, to render all the Care of our Fore-fathers of no Esteem amongst us, who are, or ought to be the Representatives of the Kingdom, was to prove, that this Age and Generation are Wise (he did not say Honester) than the former.</p>
+            <p>I remember a West Country Man many Years past, undertook to prove the same to me, and my Company beyond Sea, by declaring his
+<pb n="3" facs="tcp:61825:2"/> Father was a Fool to him. I yeilded him that Point by Concluding both to be such, and yet our Fore-fathers might be Wise Men; I shall not at this time question the Wisdom of those who promote the Bill or their Fathers. For my self I declare in behalf of the Wisdom and Ho<g ref="char:EOLhyphen"/>nesty of our Predecessors, nor can I Assent to the yeilding up of the Liberties and Laws they derived unto us, only because some Gentle<g ref="char:EOLhyphen"/>men think better of themselves (and perhaps mistakenly) than of their Parents.</p>
+            <p>Sir, I was early Instructed in a Principle of deference to the Wis<g ref="char:EOLhyphen"/>dom of our Ancestors, and at this time I tremble when I Reflect on the Correction given me by my Master, that I might not forget but Imitate and Defend in all times this Rule: <hi>Let them only be accounted Good, Just, and Wise Men, who Regard and Defend the Statutes, Laws, Or<g ref="char:EOLhyphen"/>dinances and Liberties, which their Fore-Fathers Wisdom and Experience obtained for themselves and Posterity.</hi> Now it is my Opinion Mr. <hi>Spea<g ref="char:EOLhyphen"/>ker,</hi> that if those Gentlemen who approve of this Bill, had not only been taught that Rule, but as well Corrected as my self, they would be of my Judgment, and I wish that they who depart from that Rule, and Sacrifice our <hi>English</hi> Liberties, to a Number of Mercenary For<g ref="char:EOLhyphen"/>reigners, may not meet with a much more Rigorous and Exemplary Chastisement from their Enraged and Ruined Countrey Men.</p>
+            <p>The Arguments used for the Bill are in substance these: <hi>First,</hi> A want of Purchasers for our Lands. <hi>Second,</hi> Of Merchants. <hi>Third,</hi> Manufacturers, who can Work Cheaper than the <hi>English. Fourth,</hi> Husbandmen to Till the Ground.</p>
+            <p>To all these I shall return short Answers, but if I debate not on them with that Advantage and Reason, as our Land Admirals can (no doubt) with great Ingenuity on Sea Politicks, I hope the House will Pardon me, for my Observations never cost the Kingdom such Expence of Mony at Home, and Losses at Sea, as hath the Experience of those Honourable Persons in Sea Affairs.</p>
+            <p>First its Argued by some, that we want Purchasers for the Lands; This is a Melancholy Consideration, I therefore desire those Gentle<g ref="char:EOLhyphen"/>men who approve of this Bill, to tell me what it is hath brought us to this Condition, That the Landed Men of <hi>England</hi> are Reduc'd to so Low an Ebb, that they must Sell, and none left able to Buy, unless Forreigners are Naturalized, doth this prove our Fore-fathers want<g ref="char:EOLhyphen"/>ed understanding; or doth it not rather conclude its occasioned by our want of theirs, and not following their Examples, who never
+<pb n="4" facs="tcp:61825:3"/> Taxed their Country to the Ruin both of themselves and their Posteri<g ref="char:EOLhyphen"/>ty, nor did they Expend the Mony of the Kingdom on such Allies as Ours: who as we have been informed by some of the <hi>Privy Council,</hi> are not in our interest, and will spare us none of their Men for our Pay, without great Pensions likewise for themselves. Can any Man hope to perswade me, that our Fore-fathers would have brought Foreign Soldiers into <hi>England</hi> and pay them, and Naturalize them likewise, and at the same time send the <hi>English</hi> Soldiers abroad to Fight in a strange Land, without their pay.</p>
+            <p>Let us but abate our Taxes, and after the Wise President of our Fathers, pay our own Sea Men and Soldiers at Home, and send the Forreigners Back. Then the Mony will be found Circulating at Home, in such <hi>English</hi> Mens Hands, who may Buy the Lands that are to be Sold, without Naturalizing Strangers.</p>
+            <p>Secondly, Its said we want more Merchants. Whom may we thank for bringing so many to Poverty, but I shall forbear grating, and de<g ref="char:EOLhyphen"/>sire the Liberty to Consider in short how the Trade of <hi>England</hi> hath hitherto been carried on. Gentlemen have placed their younger Chil<g ref="char:EOLhyphen"/>dren to Merchants, their Masters observing their Honesty and dili<g ref="char:EOLhyphen"/>gence when they have gained some experience in the necessary parts of Trade, Generally send them abroad, to <hi>Turkey,</hi> all parts of the <hi>Levant,</hi> to <hi>Spain, Portugal,</hi> East and West <hi>Indies;</hi> and all parts where <hi>England</hi> holds any Considerable Commerce: there the young men are Employ<g ref="char:EOLhyphen"/>ed by and Entrusted with the stocks and Estates of their Masters and Friends, whereby all parties both the principals at home, and the Factors abroad are advantaged, and <hi>England</hi> enriched (for there in the end all Centers) and at last when they are satiated with gain, they re<g ref="char:EOLhyphen"/>turn to their Native soil their Friends and Relations for ease and Enjoyment, making room for a younger Generation to succeed in their profitable Employments. Thus hitherto this Kingdom hath advanced in Riches, whilst Foreigners could not with success plant their Factories on us, through the advantage we had by our Laws, Let us but turn the Tables and Consider the Consequence: Suppose we pass this bill, and the <hi>Dutch</hi> (who no doubt will take the Oaths as this Bill directs, and protest against <hi>Popery</hi> and <hi>Paganism,</hi> and on occasion <hi>Christianity</hi> too, as at <hi>Japan</hi>) send their Servants and Factors hither, and we Naturalize them, and let the Capital stock which gets an Imploy to these new made <hi>Englishmen</hi> belong to their Masters and friends, who never did or ever will live amongst us, will it not then follow that the profit will be
+<pb n="5" facs="tcp:61825:3"/> theirs and not <hi>Englands,</hi> and will not the New made <hi>English</hi> (yet <hi>Dutchmen</hi> still) return to their Country and friends with their gain, as our People hitherto have done. We may observe by our Inland Trade, that its seldom they who make the Manufactories gain Estates, but those who employ their stocks in buying and selling what others make, and its the same with the Merchants, those that Export and Im<g ref="char:EOLhyphen"/>port are the gainers; the first maker very seldom, the Consumptioner never.</p>
+            <p>The Conclusion then of this Experiment must be this. That what hath hitherto been gain to <hi>England</hi> by <hi>English</hi> Merchants and Factors, will be turned to a Forreign Land, by the Forreign Merchants Natu<g ref="char:EOLhyphen"/>ralized, for their own good, not <hi>Englands.</hi>
+            </p>
+            <p>But this is not all, for at once the Art of Navigation will be render<g ref="char:EOLhyphen"/>ed useless. Whence then will be a Nursery for Sea Men? for Forreign Merchants will Naturalize Forreign Sea men; and when the Press-Masters find them, they will <hi>Dutchen spraken, ya min heer,</hi> and avoid the Service, but at the <hi>Custum-House, Exchange,</hi> and in all Corporations, they will be found as good <hi>Englishmen</hi> as any be of this House; from whence it followeth, that Trade will be only carried on by Forreign Merchants and Sea-men, and the <hi>English</hi> Sea men Condemned to our Men of War, and perhaps live there, as hitherto without their Pay, till another Million be owing them for Wages, and in the interim have this only consolation and reward for service done, and to be done, that their Wives and Children may be subsisted with the alms of the parish, whilst Forreign soldiers are maintained at home and abroad with <hi>their</hi> pay.</p>
+            <p>A third Argument for admitting <hi>Forreigners,</hi> is upon a supposed want we have of <hi>Manufacturers,</hi> especially such as will work cheaper than the <hi>English;</hi> In my Opinion this reasoning is extraordinary, and ought not to take air out of the House, least the Old <hi>English</hi> spirit should exert it self in defence of its Liberties, for at this time when all provisions are become excessive dear by the great quantities exported to <hi>Holland,</hi> which puts the poor <hi>English</hi> Manufacturers on starving in most parts of <hi>England,</hi> for want of a full Employ to Enable them to support their Families, by their honest and painful Labour and Industrey, shall an <hi>English</hi> Parliament let in strengers to under sell our Country, which they may easily do, whilst they live in <hi>Garrets,</hi> pay no Taxes, and are bound to no Duty; How shall we answer this to our Country, who sent us here? when by so doing, instead of making the Kingdom more populous,
+<pb n="6" facs="tcp:61825:4"/> we provide only for the subsistance of Forreigners, and put our Country men to the Choice of starving at home, or to turn soldiers, and be sent to <hi>Flanders,</hi> and starve there for want of their pay; for its well known that at this time, more commodities are made in <hi>England</hi> then can be consumed abroad, or at home, which makes the poor Manufacturers so miserable. All Country Gentlemen within this House, have for seve<g ref="char:EOLhyphen"/>ral Sessions laboured what they could to raise the price of the Provisions which their Lands produce, and some think it not great enough yet, and they would despise that man, who should endeavour to lower the Rates, by proposing a free Importation of <hi>Irish</hi> Cattle and Corn, tho he had no other design, than that Charitable and necessary one of relieving the poor; and yet these very Gentlemen are for this Bill, be<g ref="char:EOLhyphen"/>cause they would have the labour of the poor brought to a lower ad<g ref="char:EOLhyphen"/>vantage: In my Opinion this is a very unequal way of reasoning, that whilst we raise the price of the product of the Land, for the Gentlemen to live in greater state, at the same time our Consults are how to make the half starved Manufacturers that live by their daily labour, more and more miserable. What Opinion will the Common people of <hi>England</hi> have of this House, and the Gentlemen of the Kingdom, whom nothing can please, but what is made by Forreigners, or comes from abroad?</p>
+            <p>Our Pallats for a long time have been so nice, that nothing but a <hi>French</hi> Cook could please, nor could we perswade our selves that our cloathing was good unless from Head to Foot we were Alanlode <hi>de France;</hi> The Gentleman was not well served without a <hi>Frenchman,</hi> and the Lady's Commede could not sit right, if her fine <hi>French</hi> Woman did not put it on: Now on a sudden, the Change is as Violent in favour of the <hi>Dutch,</hi> who are great Courtiers, and the only taking people, and our <hi>English</hi> are a sort of Clumsy fisted people if compared with the Modish <hi>Dutch Hans</hi> and <hi>Fro,</hi> and in short the <hi>Englishmen</hi> are fit for nothing, but to be sent to <hi>Flanders,</hi> and there, either to fight, steal, or starve for want of pay. There is one thing <hi>M. Speaker</hi> which comes into my mind, with which I shall close this Consideration. What reason was there for blaming the Mayors, Aldermen, Common Councils, and other Governours of Corporations, for surrendring the Charters, tho they still retain the Rights for <hi>Englishmen only</hi> to come into new Charters, and at the same time hope to Justifie our proceedings, tho we throw up the Great Charter of our <hi>English</hi> Liberties to admit Strangers.</p>
+            <pb n="7" facs="tcp:61825:4"/>
+            <p>A fourth Pretence for this Bill is, a want of Husbandmen to Till the Ground, I shall say little on this Head, but request the Honou<g ref="char:EOLhyphen"/>rable Person below me, to tell me of the <hi>Forty Thousand French,</hi> which he confesseth are come into <hi>England;</hi> How many does he know, that at this time follow the Plow tail? for its my firm Opinion, that not only the <hi>French,</hi> but any other Nation this Bill shall let in upon us, will never transplant themselves for the benefit of going to Plow; they will contentedly leave the <hi>English</hi> the sole monopoly of that slavery.</p>
+            <p>Upon the whole <hi>Sir,</hi> its my judgment, that should this Bill pass, it will bring as great Afflictions on this Nation, as over fell upon the <hi>Egyptians,</hi> and one of their Plagues we have at this time very severe upon us; I mean that of their Land bringing forth <hi>Frogs</hi> in abundance, even in the Chambers of their Kings: For there is no entring the Courts of St. <hi>James</hi> and <hi>Whitehall,</hi> the Pallaces of our Hereditary Kings, for the great Noise and Croking of the <hi>Frog-Landers.</hi>
+            </p>
+            <p>Mr. <hi>Speaker,</hi> This Nation is a <hi>Religious, Just,</hi> and <hi>Zealous</hi> Nati<g ref="char:EOLhyphen"/>on, who, in some of their Fits and Zeal, have not only Quarrelled and Fought for the same, but have Murthered and Deposed <hi>Kings, Nobles, Bishops,</hi> and <hi>Priests,</hi> for the sake of their Religion and Li<g ref="char:EOLhyphen"/>berties, which they pretended to prove from the Bible, we are the <hi>Religious Representatives</hi> of this <hi>Religious People,</hi> Let us therefore learn Instruction in this Case before us, from that good Book; where we may be informed, that Saint <hi>Paul,</hi> by being born Free of Hea<g ref="char:EOLhyphen"/>then <hi>Rome,</hi> escaped a Whipping, and valued, and pleaded that Pri<g ref="char:EOLhyphen"/>viledge, and the Chief Captain of the <hi>Romans</hi> prides himself, that he, with a great Sum, had obtained that Freedom, and feared greatly when he had violated St. <hi>Paul</hi>'s Liberty, only by binding of him, and, Shall we set at nought the Freedoms of the <hi>English</hi> Nation, who are a Religious Christian Kingdom, and part with the same to strangers, for nothing, unless the undoing of our own Country men, who sent Us here; <hi>but not on this Errand,</hi> Certainly we should follow the Ex<g ref="char:EOLhyphen"/>ample of the <hi>Roman</hi> Captain, and fear and tremble when we con<g ref="char:EOLhyphen"/>sider the Just Provocation we shall give to the Kingdom, who will expect that We Preserve, and not Destroy every <hi>English</hi> Man's Birth-right.</p>
+            <p>
+               <hi>Sir,</hi> We may farther learn, from that Book, the Fate of the <hi>Egyptians,</hi> who experimented on the score of Charity, what it is a people may expect from admitting strangers into their Country and
+<pb n="8" facs="tcp:61825:5"/> Councels; <hi>Joseph</hi> was a stranger sold a slave into <hi>Egypt,</hi> yet being taken into <hi>Pharaoh</hi>'s Council, he, by Taxes, and other fine projects, brought the seven years plenty, God had blest the <hi>Egyptians</hi> with, into the Granaries of <hi>Pharaoh;</hi> but when Dearth came on the Land, and the people cryed to their King for Relief, they were sent to the stranger <hi>Joseph,</hi> who getteth from them, for that which was once their own, all their Money, their Cattle, their Lands, and last of all, their Persons into slavery; tho', at the same time, he did far o<g ref="char:EOLhyphen"/>therwise by his own Country men, for he plac'd them in the best of the Land; the Land of <hi>Goshen,</hi> and nourished them from the King's store. This Example should teach us to be wise in time, seeing all this was done by the Advice of one forreigner in the Privy Council; and what may that Country expect, where the Head, and many of the Council are Forreigners?</p>
+            <p>
+               <hi>Sir,</hi> I perceive some Gentlemen are uneasy, perhaps I have of<g ref="char:EOLhyphen"/>fended them, in supposing they are Religious Representatives; or concluding that their Religion is to be proved from the Bible: If that be it which displeaseth, I beg their pardon, and promise not to offend again on th<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> score; and will Conclude all with this Motion, That the <hi>Serja<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> be commanded to open the Doors, and let us first Kick the Bill out of the House, and then Forreigners out of the Kingdom.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61825:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
